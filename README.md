@@ -1,5 +1,5 @@
 # TitanicDeepLearningNN
-A tutorial about how to use Keras' Deep Learning NN to solve the Titanic Kaggle Problem
+How to use Keras' Deep Learning NN to solve the Titanic Kaggle Problem
 
 By Sonny Lowe
 
